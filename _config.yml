@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Zens"
-  avatar           : /assets/images/avatar.jpg"
-  bio              : "Cyber Security Researcher."
+  avatar           : /assets/images/avatar.jpg
+  bio              : "Cyber Security Researcher"
   location         : "Singapore"
   email            : Sumo.wk@gmail.com
   links:
