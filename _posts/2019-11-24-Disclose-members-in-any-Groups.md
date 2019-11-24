@@ -8,7 +8,7 @@ header:
   teaser: /assets/img/Facebook.jpg
 ---
 
-I find that any non-member being maybe to disclose members in any closed Facebook group.
+I found that any non-member could disclose members in any closed Facebook group.
 
 ## POC / Reprosteps
 
