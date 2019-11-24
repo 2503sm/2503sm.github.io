@@ -27,8 +27,7 @@ Host: www.facebook.com
 variables={"actorID":"USER A","first":5,"questionID":"2998452380182679"}&doc_id=2507703069268152
 
 ```
-
-# Response
+Response
 
 ```
 "severity": "CRITICAL",
@@ -41,7 +40,7 @@ variables={"actorID":"USER A","first":5,"questionID":"2998452380182679"}&doc_id=
          "requires_reauth": false,
 ```
 
-Now repeat step 1 replace menber ->  non-members
+Now repeat step 1 replace member ->  non-members
 
 ```
 POST /api/graphql/ HTTP/1.1
@@ -50,7 +49,7 @@ Host: www.facebook.com
 variables={"actorID":"USER B","first":5,"questionID":"2998452380182679"}&doc_id=2507703069268152
 
 ```
-# Response
+Response
 
 As opposed to a user who does not have a member 
 
@@ -72,7 +71,7 @@ Host: www.facebook.com
 variables={"actorID":"USER C","first":5,"questionID":"2998452380182679"}&doc_id=2507703069268152
 
 ```
-# Response
+Response
 
 
 ```
