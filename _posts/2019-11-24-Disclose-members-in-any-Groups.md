@@ -95,10 +95,15 @@ This could potentially let an attacker infer whether a user has a member on a sp
 ## Timeline
 
 13/09/2019: Report Sent
+
 15/09/2019: Confirmation of reproduce by Facebook
+
 19/09/2019: Further Investigation By Facebook
+
 21/09/2019: Patched By Facebook
+
 21/09/2019: Confirmation of patch by Facebook
+
 03/11/2019: $3000 bounty awarded by Facebook
 
 
