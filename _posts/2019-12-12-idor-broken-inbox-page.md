@@ -26,7 +26,7 @@ Step 3: Editor locked account instagram.
 
 At this time the inbox of the facebook page will be broken.
 
-##TIMELINE 
+## TIMELINE 
 
 18-11-2019 - My report was sent.
 
