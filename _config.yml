@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "2503sm"
 description              : "Cyber Security Researcher."
-url                      : 2503sm.github.io
+url                      : 1
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 2503sm/2503sm.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
